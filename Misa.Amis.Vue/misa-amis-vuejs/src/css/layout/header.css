@@ -1,0 +1,126 @@
+.header {
+    height: 42px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+    z-index: 999;
+}
+
+.header .header-left {
+    background-color: rgb(68, 67, 67);
+    color: #fff;
+    height: 42px;
+    position: fixed;
+    width: 181px;
+    /* border-right: 1px solid #e5e5e5; */
+    display: flex;
+    align-items: center;
+    z-index: 0;
+}
+
+.header .header-left .toggle {
+    width: 25px;
+    height: 18px;
+    margin: 11px 14px 12px 26px;
+    /* background-color: #fff; */
+    background-image: url(../../assets/img/menu1.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.header .header-left .logo {
+    font-family: GoogleSans-bold;
+    margin-top: -6px;
+    height: 30px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 center;
+    background-image: url(../../assets/img/Logo_Module_TiengViet_White.66947422.svg);
+}
+
+.header .header-right {
+    width: calc(100% - 181px);
+    border-bottom: 1px solid #e5e5e5;
+    margin-left: 180px;
+    height: 41px;
+    padding-left: 16px;
+    line-height: 50px;
+    align-items: center;
+    position: fixed;
+    background-color: #fff;
+    display: flex;
+    margin-right: 16px;
+}
+
+.header-right .header-title {
+    float: left;
+    font-weight: bold;
+}
+
+.header-right .header-title .title-text {
+    float: left;
+    padding-right: 10px;
+}
+
+
+.header-right .header-info {
+    position: absolute;
+    align-items: center;
+    width: auto;
+    margin-right: 0px;
+    right: 16px;
+    display: flex;
+    cursor: pointer
+}
+
+.header-right .header-info .announce {
+    padding-right: 16px;
+    margin-top: 9px;
+}
+
+.announce .far.fa-bell {
+    font-size: 20px;
+}
+
+.header-right .header-info .info-name {
+    float: left;
+    padding-left: 16px;
+    /* padding-right: 16px; */
+    font-weight: bold;
+}
+
+.header-right .header-info .avatar {
+    background-image: url(../../assets/img/default-avatar.jpg);
+    float: left;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    border: 1px solid #e5e5e5;
+    border-radius: 60%;
+}
+
+.header .header-right .avt-logo {
+    width: 19px;
+    height: 17px;
+    z-index: 10;
+    margin-top: 11px;
+    background-image: url(../../assets/img/menu-of-three-lines.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+.header-right .dowpDownStore {
+    display: flex;
+}
+
+.header-right .dowpDownUse {
+    display: flex;
+}

@@ -1,0 +1,254 @@
+/* button normal */
+
+.button {
+    height: 40px;
+    border-radius: 4px;
+    color: #ffffff;
+    padding-left: 11px;
+    padding-right: 11px;
+    text-align: center;
+    background-color: #019160;
+    line-height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    outline: 0;
+    /* min-width: 100px; */
+}
+
+.button:hover, .button-refresh:hover {
+    background-color: #2FBE8E;
+}
+
+.button:active, .button-refresh:active {
+    background-color: #01B075;
+}
+
+
+.btn-new {
+    height: 30px;
+    border-radius: 4px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #1e882c;
+    line-height: 30px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 8px;
+    border: 1 solid #000;
+    top: 10px;
+}
+
+.btn-delete:hover,.btn-new:hover {
+    background-color: #2FBE8E;
+}
+
+.btn-delete:active,.btn-new:active {
+    background-color: #01B075;
+}
+
+/* button thoát */
+
+.btn-exit {
+    background-color: #fff;
+    color: #e5e5e5;
+    border: none;
+    width: 40px;
+    border-radius: 4px;
+    height: 40px;
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+    outline: 0;
+    position: absolute;
+    background-size: 24px;
+    background-image: url(/img/x.b0200bf7.svg);
+    background-position: center;
+}
+
+.btn-exit:hover {
+    background-color: #e5e5e5;
+}
+
+/* button refresh */
+
+.button-refresh {
+    padding: 0;
+    background-image: url(../../assets/icon/refresh1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 35px;
+    height: 29px;
+    min-width: 35px;
+    background-color: #fff;
+    right: 0px;
+    position: absolute;
+    cursor: pointer;
+    outline: 0;
+}
+.btn-delete{
+    padding: 0;
+    width: 40px;
+    min-width: 40px;
+    position: absolute;
+    right: 56px;
+    outline: 0;
+    /* margin-right: 8px; */
+    background-color: #fff;
+    border: 1px solid #bbbbbb;
+    outline: none;
+    background-image: url(../../assets/icon/delete.13b26435.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: center;
+    background-blend-mode: hard-light;
+
+
+
+}
+
+/* button ratio */
+
+button.ratio-item {
+    color: #000;
+    margin-right: 8px;
+    padding-left: 8px;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #bbbbbb;
+    background-color: #e9ebee;
+    border-radius: 50%;
+}
+
+button.ratio-item:hover {
+    background-color: #ffffff;
+    border: none;
+}
+
+button.ratio-item:active {
+    background-color: #019160;
+}
+
+button.ratio-item.active {
+    background-color: #019160;
+}
+
+button.ratio-item svg circle:hover {
+    color: #019160;
+}
+
+button.page, button.ratio-item {
+    /* border: none; */
+    background-color: #e5e5e5;
+}
+
+button.ratio-item svg {
+    margin-left: 10px;
+}
+
+button.page {
+    width: 40px;
+    height: 30px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #e5e5e5;
+    margin-right: 8px;
+    border: none;
+}
+button.page:hover {
+    background-color: #fff;
+}
+
+.button.bth-cancle {
+    float: left;
+    margin-left: 24px;
+    background-color: #e5e5e5;
+    color: #000;
+    border: 1px solid #97a099;
+    width: 70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.button.bth-save {
+    margin-right: 24px;
+    margin-left: 16px;
+    float: right;
+    padding: 0 16px;
+    background-color:#139101 ;
+}
+
+.button.bth-cat {
+    float: right;
+    margin-left: 24px;
+    background-color: #e5e5e5;
+    color: #000;
+    border: 1px solid #97a099;
+    width: 70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.bth-save .fa-save {
+    font-size: 16px;
+}
+
+
+.button.bth-cancle:hover {
+    background-color: #bbbbbb;
+}
+
+.btn-option {
+    width: 100%;
+    height: 40px;
+    /* background-color: #e5e5e5; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button.btn-reset {
+    padding: 0;
+    position: absolute;
+    z-index: 100;
+    border: none;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    right: 8px;
+    top: 12px;
+}
+
+
+.btn-new {
+    position: absolute;
+    right: 16px;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-new .button-icon {
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    background-size: contain;
+    float: left;
+    margin-top: 10px;
+}
+
+.btn-new .button-value {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: -16px;
+}
+/* .btn-reset{
+    display: none;
+} */
+
+.btn-hidden{
+    display: none;
+}

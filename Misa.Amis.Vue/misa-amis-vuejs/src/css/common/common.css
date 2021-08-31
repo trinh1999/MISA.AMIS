@@ -1,0 +1,11 @@
+.valid{/*hasValid*/
+    border: 1px solid #bbbbbb ;    
+}
+
+.unValid{ /*hasUnvalid*/
+    border: 1px solid #FF4747 ;    
+}
+
+.isNone{
+    display: none;
+}

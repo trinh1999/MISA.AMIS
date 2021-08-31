@@ -1,0 +1,66 @@
+#message {
+    /* display: none; */
+    position: fixed;
+    bottom: 8px;
+    right: 7px;
+    z-index: 5;
+}
+
+.message {
+    display: flex;
+    height: 48px;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px rgba(15, 15, 15, 0.16);
+    animation: slideMessage ease 0.5s, fadeOut linear 1s 2s forwards;
+}
+
+@keyframes slideMessage {
+    from {
+        opacity: 0;
+        transform: translateX(302px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    }
+}
+
+.message-icon {
+    font-size: 24px;
+}
+
+.message-title {
+    font-size: 13px;
+    color: #000;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.message-icon-close {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.icon-success {
+    color: #01B075;
+}
+
+.icon-warning {
+    color: #F65454;
+}
+
+.icon-danger {
+    color: #f6f354;
+}

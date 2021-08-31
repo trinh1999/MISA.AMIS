@@ -1,0 +1,59 @@
+.icon-warning {
+    background-image: url("../../assets/icon/warning.png");
+}
+
+.icon-danger {
+    background-image: url("../../assets/icon/danger.png");
+}
+
+.icon-toast-danger {
+    background-image: url('../../assets/icon/toast-danger.png');
+}
+
+.icon-toast-warning {
+    background-image: url('../../assets/icon/toast-warning.png');
+}
+
+.icon-toast-check {
+    background-image: url('../../assets/icon/toast-check.png');
+}
+
+.icon-toast-i {
+    background-image: url('../../assets/icon/toast-i.png');
+}
+
+.icon-red-cross {
+    background-image: url('../../assets/icon/red-cross.png');
+}
+
+.icon-orange-cross {
+    background-image: url('../../assets/icon/orange-cross.png');
+}
+
+.icon-green-cross {
+    background-image: url('../../assets/icon/green-cross.png');
+}
+
+.icon-blue-cross {
+    background-image: url('../../assets/icon/blue-cross.png');
+}
+
+.icon-search {
+    background-image: url(../../assets/icon/search.png);
+    background-repeat: no-repeat;
+    background-position: 188px center;
+}
+
+
+.icon-down{
+    background-image: url(../../assets/icon/chevron-down.png);
+}
+
+.icon-down{
+    background-image: url(../../assets/icon/down-arrow.svg);
+}
+
+
+.icon-tick{
+    background-image: url(../../assets/icon/tick.png);
+}

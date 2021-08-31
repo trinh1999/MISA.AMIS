@@ -1,0 +1,71 @@
+/* @import url(../css/base/button.css);
+@import url(../css/base/text-box.css);
+@import url(../css/base/icon.css);
+@import url(../css/base/table.css);
+@import url(../css/base/dropdown.css);
+@import url(../css/base/input.css);
+@import url(../css/base/tool-tip.css);
+@import url(../css/base/popup.css); */
+@import url(../css/base/loader.css); 
+@import url(../css/common/common.css); 
+
+body {
+    font-family: GoogleSans;
+    font-size: 11px;
+    margin: 0;
+    /* overflow: hidden; */
+}
+
+@font-face {
+    font-family: GoogleSans;
+    src: url(../assets/font/notosans-regular.2cb88a13.woff2);
+}
+@font-face {
+    font-family: GoogleSans-Semibold;
+    src: url(../assets/font/notosans-semibold.df3e6dc4.woff2);
+}
+
+@font-face {
+    font-family: GoogleSans-Bold;
+    src: url(../assets/font/notosans-bold.3ede5aff.woff2);
+}
+
+@font-face {
+    font-family: GoogleSans-Italic;
+    src: url(../assets/font/notosans-italic.1c1aaac9.woff2);
+}
+
+.text-align-right {
+    text-align: right!important;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-center {
+    text-align: center!important;
+}
+
+::after, ::before {
+    box-sizing: inherit;
+}
+
+.width-70px{
+    max-width: 70px !important;
+}
+.width-100px{
+    max-width: 100px!important;
+}
+
+.width-150px{
+    max-width: 150px!important;
+}
+.width-200px{
+     max-width: 200px !important;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+}

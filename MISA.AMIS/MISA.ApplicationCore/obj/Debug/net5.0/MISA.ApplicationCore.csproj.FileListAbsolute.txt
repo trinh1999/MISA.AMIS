@@ -1,0 +1,45 @@
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.deps.json
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.dll
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\ref\MISA.ApplicationCore.dll
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.AssemblyReference.cache
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfoInputs.cache
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfo.cs
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.CoreCompileInputs.cache
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.dll
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\ref\MISA.ApplicationCore.dll
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.pdb
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourcesVN.resources
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.GenerateResource.cache
+G:\MISA\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourceEN.resources
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\ref\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourceEN.resources
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourcesVN.resources
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.GenerateResource.cache
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\ref\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TT.MISA\4.API\MISA.CukCuk\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\bin\Debug\net5.0\ref\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourceEN.resources
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.Properties.ResourcesVN.resources
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.GenerateResource.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\ref\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\MISA.AMIS\MISA.ApplicationCore\obj\Debug\net5.0\MISA.ApplicationCore.pdb

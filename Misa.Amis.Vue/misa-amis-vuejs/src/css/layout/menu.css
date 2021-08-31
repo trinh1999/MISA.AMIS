@@ -1,0 +1,117 @@
+.menu {
+    background-color: rgb(68, 67, 67);
+    height: 100vh;
+    width: 180px;
+    height: calc(100vh - 49px);
+    border-right: 1px solid #e5e5e5;
+    position: fixed;
+    top: 40px;
+    font-size: 13px;
+}
+
+.menu-item {
+    color: #fff;
+    height: 30px;
+    width: 100%;
+    align-items: center;
+    padding-left: 16px;
+    box-sizing: border-box;
+    display: flex;
+    transition: all 0.5s;
+}
+
+.menu .menu-item:hover {
+    background-color: #bdbaba;
+    color: #000;
+}
+
+.menu .menu-item:active {
+    background-color: #019160;
+    color: #ffffff;
+}
+
+.menu-item.menu-item-active {
+    background-color: #019160;
+}
+
+.menu-item.menu-item-active .menu-item-text a {
+    color: #fff;
+}
+
+
+.menu-item.menu-item-active .menu-icon {
+    color: #fff;
+    z-index: 1000;
+  
+}
+
+.menu-item.menu-item-active:hover {
+    background-color: #019160;
+}
+
+.menu .menu-item .menu-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    background-size: contain;
+   
+}
+
+.menu-icon.menu-icon-dashboard {
+    background-image: url(../../assets/icon/dashboard.svg);
+  
+}
+
+.menu-icon.menu-icon-money {
+    background-image: url(../../assets/icon/money-bag.svg);
+}
+
+.menu-icon.menu-icon-deposit {
+    background-image: url(../../assets/icon/deposit.svg);
+}
+
+.menu-icon.menu-icon-shopingBag {
+    background-image: url(../../assets/icon/shopping-bag.svg);
+}
+
+.menu-icon.menu-icon-shopingCart {
+    background-image: url(../../assets/icon/shopping-cart.svg);
+}
+
+.menu-icon.menu-icon-invoice {
+    background-image: url(../../assets/icon/invoice.svg);
+}
+
+.menu-icon.menu-icon-warehouse {
+    background-image: url(../../assets/icon/warehouse.svg);
+}
+
+.menu-icon.menu-icon-support {
+    background-image: url(../../assets/icon/customer-support.svg);
+}
+
+.menu-icon.menu-icon-priceTag {
+    background-image: url(../../assets/icon/price-tag.svg);
+}
+.menu-icon.menu-icon-priceList {
+    background-image: url(../../assets/icon/price-list.svg);
+}
+.menu-icon.menu-icon-dollar {
+    background-image: url(../../assets/icon/dollar.svg);
+}
+
+.menu-icon.menu-icon-repost {
+    background-image: url(../../assets/icon/repost.svg);
+}
+
+.menu-icon.menu-icon-analysis {
+    background-image: url(../../assets/icon/analysis.svg);
+}
+.menu-icon.menu-icon-tax {
+    background-image: url(../../assets/icon/tax.svg);
+}
+
+.menu-icon.menu-icon-realEstate {
+    background-image: url(../../assets/icon/real-estate.svg);
+}
+

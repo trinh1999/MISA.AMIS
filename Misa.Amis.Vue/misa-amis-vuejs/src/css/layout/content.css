@@ -1,0 +1,139 @@
+.content {
+    padding-left: 24px;
+    position: absolute;
+    top: 40px;
+    left: 180px;
+    height: calc(100% - 50px);
+    z-index: -10;
+    width: calc(100% - 220px);
+   
+    padding-right: 16px;
+    min-width: 770px;
+    /* transition: all 0.5s; */
+}
+
+.content-table table.table.table-striped {
+    font-family: 'GoogleSans';
+    font-size: 13px;
+}
+
+.content .content-table {
+    margin-top: 24px;
+    width: 100%;
+    /* padding-right: 16px; */
+    background-color: #fff;
+}
+
+.content .content-title {
+    padding-top: 18px;
+    padding-left: 20px;
+    margin-left: -23px;
+    display: flex;
+    width: 1161px;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: #e9ebee;
+    justify-content: space-between;
+}
+
+.content-title-text {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.content .filter {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    position: relative;
+    top: 11px;
+    /* justify-content: space-between; */
+}
+
+button.btn.btn-default.dropdown-toggle {
+    height: 40px;
+    margin-right: 24px;
+}
+
+.title-text button.btn.btn-default.dropdown-toggle {
+    border: none;
+}
+
+.title-text button.btn.btn-default.dropdown-toggle:active, .title-text button.btn.btn-default.dropdown-toggle:active:focus, .title-text button.btn.btn-default.dropdown-toggle:active:hover {
+    border: none;
+}
+
+.content-table {
+    height: calc(100% - 140px);
+}
+
+.ratio {
+    position: absolute;
+    display: inline-flex;
+    height: 24px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    width: calc(100% - 24px);
+}
+.dropdown .fa-chevron-down:before {
+    padding: 14px 12px 14px 12px;
+    display: block;
+}
+.count-page {
+    right: 16px;
+    position: absolute;
+    text-align: right;
+    float: left;
+    /* width: 15%; */
+    background-color: #fff;
+    padding: 8px;
+}
+
+.total-text {
+    float: left;
+    width: 25%;
+}
+
+.list-ratio {
+    float: left;
+    text-align: center;
+    width: 60%;
+    display: flex;
+    padding-left: 20%;
+}
+
+.filter-search {
+    position: relative;
+    left: calc(100% - 250px);
+}
+
+.zoom-out-menu {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    color: #fff;
+    width: 20px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    height: 20px;
+    background-color: #bbbbbb;
+    text-align: center;
+    line-height: 20px;
+}
+
+.menu-shrink {
+    width: 52px;
+    transition: all 0.5s;
+}
+
+.content-expand {
+    width: calc(100% - 92px);
+    left: 52px;
+    transition: all 0.5s;
+}
+
+.menu-item-text .menu-hide {
+    display: none;
+}
+
+

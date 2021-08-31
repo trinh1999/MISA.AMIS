@@ -1,0 +1,161 @@
+.dialog .dialog-container {
+    font-size: 14.5px;
+    width: 68%;
+    height: 95%;
+    margin: auto;
+    background-color: #fff;
+    position: absolute;
+    border-radius: 4px;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.model {
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    background-color: #000;
+    opacity: 0.4;
+    /* z-index: -999; */
+}
+
+.dialog-title {
+    padding: 20px 0px 16px 20px;
+    display:flex;
+}
+
+.dialog-text {
+    font-size: 24px !important;
+    font-weight: bold;
+}
+
+.dialog-content {
+    padding-bottom: 8px;
+    display: flex;
+    width: 100%;
+}
+
+
+.dialog .dialog-content .em-resume {
+    float: left;
+    margin-left: 21px;
+    box-sizing: border-box;
+    width: 880px;
+    border-bottom: 2px solid #e5e5e5;
+    height: 443px;
+}
+
+.em-resume .em-resume-common .title-re-com {
+    font-size: 15px;
+    padding-bottom: 16px;
+    /* margin-bottom: 8px; */
+}
+
+.dialog .bth-option {
+    height: 100px;
+    width: 100%;
+    background-color: #d2d2d2;
+}
+
+
+.notify-em {
+    position: relative;
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    list-style: 44px;
+}
+
+hr {
+    width: 75px;
+    margin-left: 0;
+    border: 2px solid #019160;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.clearfix:after {
+    clear: both;
+    display: table;
+    content: " ";
+    padding-bottom: 8px;
+}
+
+i.far.fa-save::before {
+    padding-left: 16px;
+    padding-right: 8px;
+}
+
+
+
+.input-item {
+    padding-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input-item .col-salary {
+    position: relative;
+}
+
+.col-salary .vnd {
+    position: absolute;
+    top: 33px;
+    right: 10px;
+}
+
+.filter-pos {
+    padding-left: 16px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 222px;
+}
+
+label.dropdown.drdialog {
+    width: 201px!important;
+}
+
+.mar-right-16px {
+    margin-right: 16px;
+}
+
+.width-100px {
+    width: 100px;
+}
+
+.width-200px {
+    width: 200px;
+}
+
+.width-155px{
+    padding-right: 50px!important;
+    width: 155px;
+}
+
+.dialog-hidden {
+    display: none;
+}
+
+.width-186px {
+    width: 188px;
+}
+.dialog button.btn-reset {
+    top: 33px;
+    right: 2px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+input{
+    height: 32px;
+}
+

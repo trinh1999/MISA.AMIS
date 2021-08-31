@@ -1,0 +1,142 @@
+.popup {
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: #fff;
+    border-radius: 4px;
+    height: auto;
+    min-height: 204px;
+    width: auto;
+    min-width: 410px;
+    border: 1px solid #bbb;
+    display: block;
+}
+
+.popup .header {
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.popup .header .title {
+    margin: 24px 24px 24px 24px;
+    height: 24px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.popup .header .btn-close {
+    height: 40px;
+    width: 40px;
+    background-image: url("../../assets/icon/x.svg");
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 4px;
+    background-size: 16px 16px;
+    
+}
+
+.popup .header .btn-close:hover {
+    background-color: #ccc;
+}
+
+.popup .popup-content {
+    margin: 24px 24px 24px 0px;
+}
+
+.popup .footer {
+    width: 100%;
+    height: 60px;
+    background-color: #E9EBEE;
+    border-radius: 0px 0px 4px 4px;
+}
+
+.popup .footer .button {
+    min-width: 100px;
+    height: 40px;
+    line-height: 40px;
+    float: right;
+    border: none;
+    font-family: GoogleSans;
+}
+
+.popup .footer .button.btn-save {
+    padding-left: 40px;
+    margin: 12px 24px 12px 16px;
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position-x: 20px;
+    background-position-y: center;
+    border: 0;
+    padding: 0 16px 0 40px;
+}
+
+.popup .footer .button.confirm {
+    padding-left: 40px;
+    margin: 10px 24px 10px 16px;
+    border: 0;
+    padding: 0 16px 0 16px;
+}
+
+.popup .footer .button.cancel {
+    background-color: #E9EBEE;
+    margin-top: 10px;
+    color: #000;
+}
+
+.popup .footer .button.cancel:hover {
+    background: #bbb;
+}
+
+/* .popup.warning {
+    display: none;
+} */
+
+.popup.warning .header {
+    height: 48px;
+}
+
+.popup.warning .header .title {
+    font-size: 15px;
+    color: #000000;
+    height: 24px;
+}
+
+.popup.warning .popup-content {
+    display: flex;
+    padding-left: 24px;
+    padding-right: 10px;
+    position: relative;
+}
+
+.popup.warning .popup-content .warning-icon {
+    height: 36px;
+    width: 36px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #f4f4f4;
+}
+
+.popup.warning .popup-content .warning-message {
+    height: auto;
+    min-height: 52px;
+    max-height: 200px;
+    max-width: 326px;
+    min-width: 50px;
+}
+
+.popup.warning .popup-content .warning-message .text-target {
+    font-weight: bold;
+}
+
+button.button.confirm.btn-accept-delete{
+    background-color: #F65454;
+}
+button.button.confirm.btn-accept-delete:hover{
+    opacity: 0.8;
+}

@@ -1,0 +1,131 @@
+.paging-option {
+    display: flex;
+}
+
+.btn-pagenumber {
+    background-position: center;
+    outline: 0;
+
+}
+
+.btn-pagenumber:hover {
+    background-color: #fff;
+}
+
+.btn-pagenumber.active {
+    background-color: #019160;
+    color: #fff;
+}
+
+.m-btn-firstpage {
+    height: 30px;
+    width: 30px;
+    background-image: url("../../assets/icon/btn-firstpage.svg");
+    background-position: center;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    outline: 0;
+}
+
+.m-btn-prev-page {
+    height: 30px;
+    width: 30px;
+    background-image: url("../../assets/icon/btn-prev-page.svg");
+    background-position: center;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    outline: 0;
+
+}
+
+.m-btn-next-page {
+    height: 30px;
+    width: 30px;
+    background-image: url("../../assets/icon/btn-next-page.svg");
+    background-position: center;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    outline: 0;
+
+}
+
+.m-btn-lastpage {
+    height: 30px;
+    width: 30px;
+    background-image: url("../../assets/icon/btn-lastpage.svg");
+    background-position: center;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    outline: 0;
+
+}
+
+.btn-select-page {
+    cursor: pointer;
+    padding: 0px 10px 0px 10px;
+}
+
+.btn-select-page:hover {
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.btn-pagenumber:focus {
+    background-color: #019160;
+    color: #fff;
+}
+.paging-bar .paging-record-info {
+    position: absolute;
+    left: 0px;
+}
+
+.paging-bar .paging-record-option {
+    position: absolute;
+    right: 0px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 36px;
+    line-height: 36px;
+    display: flex;
+    padding: 0px 16px 0px 16px;
+}
+
+.paging-bar {
+    height: 56px;
+}
+
+.paging-bar {
+    border-top: 1px solid #bbbbbb;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1 !important;
+}
+
+.btn-pagenumber.btn-pagenumber-selected, .btn-pagenumber-selected:hover {
+    background-color: #019160;
+    color: #ffffff;
+}
+
+.btn-pagenumber {
+    width: 30px;
+    height: 30px;
+    margin: 0 4px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    background-color: #e9ebee;
+    cursor: pointer !important;
+}
+
+.icon-chevron{
+    display: inline-grid;
+    height: 0px;
+    margin-top: 7px;
+    line-height: 36px;
+    padding-left: 8px;
+}
+.icon-chevron .fas.fa-chevron-up{
+    height: 8px;
+}

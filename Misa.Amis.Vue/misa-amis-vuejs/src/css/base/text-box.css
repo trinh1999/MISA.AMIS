@@ -1,0 +1,42 @@
+.text-box-default {
+    height: 40px;
+    border: 1px solid #bbbbbb;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.textbox {
+    display: flex;
+    align-items: center;
+}
+
+.text-box-default:focus {
+    border-color: #019160;
+}
+
+.textbox-with-icon {
+    position: absolute;
+    display: flex;
+    flex-shrink: 0;
+}
+
+.textbox .textbox-icon {
+    width: 16px;
+    height: 16px;
+    z-index: 1;
+    display: block;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+
+.textbox input {
+    z-index: 0;
+    padding-left: 40px;
+}
+
+input.border-red {
+    border: 1px solid red;
+}
